@@ -2,6 +2,7 @@
 *.log*
 doc/*.html
 node_modules
+.opt-in
 *.code-workspace
 *.sublime-project
 *.sublime-workspace
